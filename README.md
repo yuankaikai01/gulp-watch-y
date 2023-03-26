@@ -8,14 +8,14 @@ From the npmjs , the chokidar in gulp-watch is still ~V2.0.0.
 ## Installation
 
 ```
-npm install --save-dev gulp-watch-u
+npm install --save-dev gulp-watch-y
 ```
 
 ## Usage
 
 ```js
 var gulp = require('gulp'),
-    watch = require('gulp-watch-u');
+    watch = require('gulp-watch-y');
 
 gulp.task('stream', function () {
 	// Endless stream mode
