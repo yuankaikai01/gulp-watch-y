@@ -1,5 +1,5 @@
 {
-  "name": "gulp-watch-u",
+  "name": "gulp-watch-y",
   "version": "1.0.0",
   "description": "Watch, that actually is an endless stream",
   "main": "index.js",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/floatdrop/gulp-watch.git"
+    "url": "git://github.com/yuankaikai01/gulp-watch-y.git"
   },
   "author": "Vsevolod Strukchinsky",
   "license": "MIT",
