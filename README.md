@@ -1,18 +1,21 @@
 # [gulp](https://github.com/gulpjs/gulp)-watch [![Build Status: Linux][travis-image]][travis-url] [![Build Status: Windows][appveyor-image]][appveyor-url] [![Dependency Status][depstat-image]][depstat-url]
 
-File watcher that uses super-fast [chokidar](https://github.com/paulmillr/chokidar) and emits vinyl objects.
+copy from gulp-watch ,just update the dependency of chokidar 
+
+From the npmjs , the chokidar in gulp-watch is still ~V2.0.0.
+
 
 ## Installation
 
 ```
-npm install --save-dev gulp-watch
+npm install --save-dev gulp-watch-u
 ```
 
 ## Usage
 
 ```js
 var gulp = require('gulp'),
-    watch = require('gulp-watch');
+    watch = require('gulp-watch-u');
 
 gulp.task('stream', function () {
 	// Endless stream mode
